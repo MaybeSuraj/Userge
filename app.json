@@ -1,4 +1,6 @@
 {
+    "name": "Userge Userbot",
+    "description": "ub hu",
     "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org"},
         "API_HASH": {"description": "Get this value from https://my.telegram.org"},
@@ -30,5 +32,5 @@
         {"url": "heroku/python"},
         {"url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"}
     ],
-    "stack": "heroku-22"
+    "stack": "heroku-20"
 }
